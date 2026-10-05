@@ -426,3 +426,7 @@ Apple 官方安全公告与内容：
 - Michael Horowitz / Proton VPN 关于 iOS VPN 泄漏的公开研究，2022。
 
 > 说明：本报告中的 CVE 编号、影响版本与修复版本均以 Apple 官方安全公告及 NVD 记录为准；技术机理描述综合上述公开研究文献。
+
+---
+
+咨询ios系统请咨询 telegram：https://t.me/pjx7120
