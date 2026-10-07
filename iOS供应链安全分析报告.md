@@ -25,7 +25,7 @@
 
 **免责声明**：本报告仅用于安全研究与防御目的，不包含可利用的攻击代码或操作级攻击步骤。所有案例信息均来自公开安全研究、Apple 安全通告及学术文献。
 
-咨询ios系统请咨询 telegram：https://t.me/pjx7120
+咨询ios系统请咨询 telegram：https://t.me/one00190
 
 
 # 二、开发工具链污染
@@ -393,4 +393,4 @@ Apple 在 2024 年发布了《Building a Trusted Ecosystem for Millions of Apps:
 - **局限性**：本报告基于公开资料，不包含未公开漏洞或私有情报信息
 - **免责声明**：本报告仅用于安全研究与防御目的，不构成攻击指导
 
-咨询ios系统请咨询 telegram：https://t.me/pjx7120
+咨询ios系统请咨询 telegram：https://t.me/one00190

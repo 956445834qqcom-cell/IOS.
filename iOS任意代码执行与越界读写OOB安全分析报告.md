@@ -19,7 +19,7 @@
 
 **免责声明**：本报告仅用于安全研究与防御目的，不包含可利用的攻击代码或操作级攻击步骤。所有 CVE 信息均来自 Apple 安全通告、NVD、Google Project Zero 及公开学术文献。
 
-咨询ios系统请咨询 telegram：https://t.me/pjx7120
+咨询ios系统请咨询 telegram：https://t.me/one00190
 
 
 # 二、越界读写（OOB）基础
@@ -374,4 +374,4 @@ OOB 写 → 堆对象伪造/覆盖 → 任意地址读写 → 内核 task port �
 - **局限性**：本报告基于公开资料，不包含未公开漏洞或私有 exploit 信息
 - **免责声明**：本报告仅用于安全研究与防御目的，不构成攻击指导
 
-咨询ios系统请咨询 telegram：https://t.me/pjx7120
+咨询ios系统请咨询 telegram：https://t.me/one00190

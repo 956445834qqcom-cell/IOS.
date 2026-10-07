@@ -331,4 +331,4 @@ Coruna 与 DarkSword 的受影响区间合并后几乎覆盖 iOS 13.0 至 18.6.x
 
 ---
 
-咨询ios系统请咨询 telegram：https://t.me/pjx7120
+咨询ios系统请咨询 telegram：https://t.me/one00190

@@ -228,4 +228,4 @@ iOS 水坑利用链几乎都遵循"远程代码执行 → 提权 → 持久化/�
 
 ---
 
-咨询ios系统请咨询 telegram：https://t.me/pjx7120
+咨询ios系统请咨询 telegram：https://t.me/one00190
